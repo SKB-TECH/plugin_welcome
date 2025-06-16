@@ -1,0 +1,9 @@
+name: WelcomeJS
+version: 1.0
+main: com.example.WelcomeJS
+commands:
+  setwelcome:
+    description:message de bienvenu
+permissions:
+  welcomemessage.set:
+    default: op
